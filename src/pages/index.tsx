@@ -1,5 +1,6 @@
-import Test from '../components/test';
 import Head from 'next/head';
+
+import Test from '@containers/test';
 
 function Home() {
   return (
