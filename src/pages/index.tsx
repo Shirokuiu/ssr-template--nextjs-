@@ -1,15 +1,15 @@
-import type { NextPage } from 'next';
+import Test from '../components/test';
 import Head from 'next/head';
 
-const Home: NextPage = () => {
+function Home() {
   return (
     <div>
       <Head>
         <title>Next App</title>
       </Head>
-      <h1>Hello</h1>
+      <Test />
     </div>
   );
-};
+}
 
 export default Home;
