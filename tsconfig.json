@@ -14,7 +14,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "baseUrl": ".",                                  /* Specify the base directory to resolve non-relative module names. */
+    "baseUrl": ".",
     "paths": {
       "@layouts/*": ["src/components/layouts/*"],
       "@shared/*": ["src/components/shared/*"],
