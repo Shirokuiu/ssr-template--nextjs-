@@ -21,7 +21,6 @@
       "@containers/*": ["src/components/containers/*"],
       "@assets/*": ["src/assets/*"],
       "@services/*": ["src/services/*"],
-      "@main": ["src/main.ts"],
       "@store/*": ["src/store/*"],
       "@hooks/*": ["src/hooks/*"],
       "@constants/*": ["src/constants/*"],
